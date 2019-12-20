@@ -1,0 +1,11 @@
+@media screen and (max-width: 780px){
+    .boton_text_ocultar{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .centrar_logo{
+        justify-content: center;
+    }
+}
